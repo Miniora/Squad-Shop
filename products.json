@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "name":"MAN SPORTSWEAR",
+        "price":69.99,
+        "image":"images/tshirt-img.png"   
+    },
+    {
+        "id":2,
+        "name":"MAN HOODIE",
+        "price":45,
+        "image":"image/2.png"   
+    },
+    {
+        "id":3,
+        "name":"MAN SPORTSWEAR",
+        "price":30,
+        "image":"image/3.png"   
+    },
+    {
+        "id":4,
+        "name":"WOMAN PANTS",
+        "price":79.99,
+        "image":"image/4.png"   
+    },
+    {
+        "id":5,
+        "name":"WOMAN HOODIE",
+        "price":55,
+        "image":"image/5.png"   
+    },
+    {
+        "id":6,
+        "name":"WOMAN SHOES",
+        "price":36,
+        "image":"image/6.png"   
+    },
+    {
+        "id":7,
+        "name":"MAN NECKLACE",
+        "price":50,
+        "image":"image/7.png"   
+    },
+    {
+        "id":8,
+        "name":"WOMAN BUCKET HAT",
+        "price":20,
+        "image":"image/8.png"   
+    },
+    {
+        "id":9,
+        "name":"MAN COLLAR",
+        "price":30,
+        "image":"image/9.png"   
+    }
+]
